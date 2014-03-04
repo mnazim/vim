@@ -36,3 +36,7 @@ let g:tagbar_usearrows = 1
 
 " Airline
 let g:airline_powerline_fonts = 1
+
+
+" YankRing
+let g:yankring_history_file= '.vim/yrhist'

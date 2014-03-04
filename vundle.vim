@@ -31,6 +31,7 @@ Bundle 'YankRing.vim'
 Bundle 'noahfrederick/vim-hemisu'
 Bundle 'bling/vim-bufferline'
 Bundle 'scrooloose/syntastic'
+Bundle 'davidhalter/jedi-vim'
 
 Bundle 'HTML-AutoCloseTags'
 

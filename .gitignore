@@ -1,3 +1,5 @@
 bundle/*
 session/*
 pundo/*
+yrhist*.txt
+.netrwhist
