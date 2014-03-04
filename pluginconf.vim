@@ -40,3 +40,7 @@ let g:airline_powerline_fonts = 1
 
 " YankRing
 let g:yankring_history_file= '.vim/yrhist'
+
+" Isort
+let g:vim_isort_map=''
+noremap <F12> <Esc>:Isort<CR>

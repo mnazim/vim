@@ -35,7 +35,4 @@ Bundle 'davidhalter/jedi-vim'
 
 Bundle 'HTML-AutoCloseTags'
 
-au FileType xhtml,xml so ~/.vim/ftplugin/html_autoclosetag.vim
-
-
-filetype on
+"au FileType xhtml,xml so ~/.vim/ftplugin/html_autoclosetag.vim

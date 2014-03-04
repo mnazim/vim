@@ -1,5 +1,6 @@
-set nocp
-filetype on
+" For some reason I need to turn off filetype before filetype plugin
+filetype off
+
 filetype plugin on
 filetype indent on
 set hidden
@@ -50,7 +51,9 @@ set wildmenu
 set wildignore=*.dll,*.o,*.pyc,*.bak,*.exe,*.jpg,*.jpeg,*.png,*.gif,*$py.class,*.class
 
 set autoindent smartindent
-inoremap # X#  " Do not outindent hashes
+
+" Do not outindent hashes
+inoremap # X#
 
 
 " Sane searching
